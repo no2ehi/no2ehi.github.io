@@ -12,8 +12,8 @@ const App = () => {
         <div className="flex flex-col items-center gap-3 mt-8">
           <h3 className="font-medium">work sample:</h3>
           <ul>
-            <li><a href="">Simple Todo App</a></li>
-            <li><a href="">React Tik Tok Toe</a></li>
+            <li><a href="https://github.com/no2ehi/simple-todo-app-react">Simple Todo App</a></li>
+            <li><a href="https://github.com/no2ehi/react-tik-tac-toe-difficulty">React Tik Tok Toe</a></li>
           </ul>
         </div>
       
